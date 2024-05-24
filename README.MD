@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![image](https://github.com/LoneBrokeBoy/Blog-preview-card/assets/91601992/9f520014-1c96-4f02-8b55-db3c49f2d389)
+![image](https://cdn.dribbble.com/userupload/3640655/file/original-3e8943e9007e94d52c1d239791ee7b4e.png?resize=400x0)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
